@@ -1,0 +1,190 @@
+{
+    "THEIA_E3": {
+        "Flash": {
+            "removes_pct": {
+                "percent": 64
+            },
+            "base": {
+                "tp": 23,
+                "fp": 386632,
+                "f1": 0.00011893281065743259
+            },
+            "balanced": {
+                "tp": 13,
+                "fp": 84362,
+                "f1": 0.00030771779882869465
+            }
+        },
+        "Velox": {
+            "removes_pct": {
+                "percent": 64
+            },
+            "base": {
+                "tp": 10,
+                "fp": 1,
+                "f1": 0.15503875967408207
+            },
+            "balanced": {
+                "tp": 12,
+                "fp": 6,
+                "f1": 0.1764705882120675
+            }
+        },
+        "Orthrus": {
+            "removes_pct": {
+                "percent": 64
+            },
+            "base": {
+                "tp": 0,
+                "fp": 25,
+                "f1": 0.0
+            },
+            "balanced": {
+                "tp": 0,
+                "fp": 25,
+                "f1": 0.0
+            }
+        }
+    },
+    "THEIA_E5": {
+        "Flash": {
+            "removes_pct": {
+                "percent": 90
+            },
+            "base": {
+                "tp": 0,
+                "fp": 130279,
+                "f1": 0.0
+            },
+            "balanced": {
+                "tp": 0,
+                "fp": 3,
+                "f1": 0.0
+            }
+        },
+        "Velox": {
+            "removes_pct": {
+                "percent": 90
+            },
+            "base": {
+                "tp": 2,
+                "fp": 6,
+                "f1": 0.051948051929296676
+            },
+            "balanced": {
+                "tp": 2,
+                "fp": 5,
+                "f1": 0.05263157893050554
+            }
+        },
+        "Orthrus": {
+            "removes_pct": {
+                "percent": 90
+            },
+            "base": {
+                "tp": 0,
+                "fp": 8,
+                "f1": 0.0
+            },
+            "balanced": {
+                "tp": 0,
+                "fp": 22,
+                "f1": 0.0
+            }
+        }
+    },
+    "TRACE_E3": {
+        "Flash": {
+            "removes_pct": {
+                "percent": 71
+            },
+            "base": {
+                "tp": 18,
+                "fp": 243968,
+                "f1": 0.0001475282864712503
+            },
+            "balanced": {
+                "tp": 23,
+                "fp": 313788,
+                "f1": 0.00014656869927608045
+            }
+        },
+        "Velox": {
+            "removes_pct": {
+                "percent": 71
+            },
+            "base": {
+                "tp": 2,
+                "fp": 2220,
+                "f1": 0.0017722640642925107
+            },
+            "balanced": {
+                "tp": 12,
+                "fp": 22168,
+                "f1": 0.001080351113797471
+            }
+        },
+        "Orthrus": {
+            "removes_pct": {
+                "percent": 71
+            },
+            "base": {
+                "tp": 0,
+                "fp": 2,
+                "f1": 0.0
+            },
+            "balanced": {
+                "tp": 0,
+                "fp": 6,
+                "f1": 0.0
+            }
+        }
+    },
+    "TRACE_E5": {
+        "Flash": {
+            "removes_pct": {
+                "percent": 77
+            },
+            "base": {
+                "tp": 7,
+                "fp": 34755,
+                "f1": 0.0004024607599379989
+            },
+            "balanced": {
+                "tp": 19,
+                "fp": 161927,
+                "f1": 0.0002346113477508222
+            }
+        },
+        "Velox": {
+            "removes_pct": {
+                "percent": 77
+            },
+            "base": {
+                "tp": 0,
+                "fp": 0,
+                "f1": 0.0
+            },
+            "balanced": {
+                "tp": 0,
+                "fp": 4,
+                "f1": 0.0
+            }
+        },
+        "Orthrus": {
+            "removes_pct": {
+                "percent": 77
+            },
+            "base": {
+                "tp": 0,
+                "fp": 2,
+                "f1": 0.0
+            },
+            "balanced": {
+                "tp": 0,
+                "fp": 23,
+                "f1": 0.0
+            }
+        }
+    }
+}

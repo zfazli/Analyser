@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.parquet
+*.csv
+*.png
+*.log
+.idea/
+.vscode/

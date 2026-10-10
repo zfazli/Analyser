@@ -1,0 +1,490 @@
+{
+    "THEIA_E3": {
+        "Flash": {
+            "profiles": [
+                {
+                    "profile": "T2-C3",
+                    "removes_pct": 37,
+                    "profile_removal": {
+                        "tp": 39,
+                        "fp": 546805
+                    },
+                    "matched_random": {
+                        "tp": 26,
+                        "fp": 102726
+                    }
+                },
+                {
+                    "profile": "T4-C9",
+                    "removes_pct": 30,
+                    "profile_removal": {
+                        "tp": 15,
+                        "fp": 303284
+                    },
+                    "matched_random": {
+                        "tp": 2,
+                        "fp": 2057
+                    }
+                },
+                {
+                    "profile": "T4-C3",
+                    "removes_pct": 12,
+                    "profile_removal": {
+                        "tp": 34,
+                        "fp": 503576
+                    },
+                    "matched_random": {
+                        "tp": 2,
+                        "fp": 2057
+                    }
+                }
+            ]
+        },
+        "Velox": {
+            "profiles": [
+                {
+                    "profile": "T2-C3",
+                    "removes_pct": 37,
+                    "profile_removal": {
+                        "tp": 0,
+                        "fp": 5
+                    },
+                    "matched_random": {
+                        "tp": 10,
+                        "fp": 28
+                    }
+                },
+                {
+                    "profile": "T4-C9",
+                    "removes_pct": 30,
+                    "profile_removal": {
+                        "tp": 10,
+                        "fp": 19
+                    },
+                    "matched_random": {
+                        "tp": 12,
+                        "fp": 6
+                    }
+                },
+                {
+                    "profile": "T4-C3",
+                    "removes_pct": 12,
+                    "profile_removal": {
+                        "tp": 10,
+                        "fp": 1
+                    },
+                    "matched_random": {
+                        "tp": 10,
+                        "fp": 6
+                    }
+                }
+            ]
+        },
+        "Orthrus": {
+            "profiles": [
+                {
+                    "profile": "T2-C3",
+                    "removes_pct": 37,
+                    "profile_removal": {
+                        "tp": 0,
+                        "fp": 25
+                    },
+                    "matched_random": {
+                        "tp": 0,
+                        "fp": 25
+                    }
+                },
+                {
+                    "profile": "T4-C9",
+                    "removes_pct": 30,
+                    "profile_removal": {
+                        "tp": 0,
+                        "fp": 25
+                    },
+                    "matched_random": {
+                        "tp": 0,
+                        "fp": 25
+                    }
+                },
+                {
+                    "profile": "T4-C3",
+                    "removes_pct": 12,
+                    "profile_removal": {
+                        "tp": 0,
+                        "fp": 25
+                    },
+                    "matched_random": {
+                        "tp": 0,
+                        "fp": 25
+                    }
+                }
+            ]
+        }
+    },
+    "THEIA_E5": {
+        "Flash": {
+            "profiles": [
+                {
+                    "profile": "T4-C4",
+                    "removes_pct": 65,
+                    "profile_removal": {
+                        "tp": 0,
+                        "fp": 2
+                    },
+                    "matched_random": {
+                        "tp": 0,
+                        "fp": 48
+                    }
+                },
+                {
+                    "profile": "T4-C5",
+                    "removes_pct": 18,
+                    "profile_removal": {
+                        "tp": 0,
+                        "fp": 49
+                    },
+                    "matched_random": {
+                        "tp": 0,
+                        "fp": 2
+                    }
+                },
+                {
+                    "profile": "T1-C1",
+                    "removes_pct": 13,
+                    "profile_removal": {
+                        "tp": 0,
+                        "fp": 4
+                    },
+                    "matched_random": {
+                        "tp": 0,
+                        "fp": 2
+                    }
+                }
+            ]
+        },
+        "Velox": {
+            "profiles": [
+                {
+                    "profile": "T4-C4",
+                    "removes_pct": 65,
+                    "profile_removal": {
+                        "tp": 2,
+                        "fp": 6
+                    },
+                    "matched_random": {
+                        "tp": 2,
+                        "fp": 8
+                    }
+                },
+                {
+                    "profile": "T4-C5",
+                    "removes_pct": 18,
+                    "profile_removal": {
+                        "tp": 2,
+                        "fp": 4
+                    },
+                    "matched_random": {
+                        "tp": 2,
+                        "fp": 36
+                    }
+                },
+                {
+                    "profile": "T1-C1",
+                    "removes_pct": 13,
+                    "profile_removal": {
+                        "tp": 2,
+                        "fp": 5
+                    },
+                    "matched_random": {
+                        "tp": 2,
+                        "fp": 4
+                    }
+                }
+            ]
+        },
+        "Orthrus": {
+            "profiles": [
+                {
+                    "profile": "T4-C4",
+                    "removes_pct": 65,
+                    "profile_removal": {
+                        "tp": 0,
+                        "fp": 12
+                    },
+                    "matched_random": {
+                        "tp": 0,
+                        "fp": 25
+                    }
+                },
+                {
+                    "profile": "T4-C5",
+                    "removes_pct": 18,
+                    "profile_removal": {
+                        "tp": 0,
+                        "fp": 30
+                    },
+                    "matched_random": {
+                        "tp": 0,
+                        "fp": 4
+                    }
+                },
+                {
+                    "profile": "T1-C1",
+                    "removes_pct": 13,
+                    "profile_removal": {
+                        "tp": 2,
+                        "fp": 0
+                    },
+                    "matched_random": {
+                        "tp": 0,
+                        "fp": 4
+                    }
+                }
+            ]
+        }
+    },
+    "TRACE_E3": {
+        "Flash": {
+            "profiles": [
+                {
+                    "profile": "T2-C3",
+                    "removes_pct": 32,
+                    "profile_removal": {
+                        "tp": 24,
+                        "fp": 270397
+                    },
+                    "matched_random": {
+                        "tp": 26,
+                        "fp": 340338
+                    }
+                },
+                {
+                    "profile": "T3-C8",
+                    "removes_pct": 30,
+                    "profile_removal": {
+                        "tp": 4,
+                        "fp": 59050
+                    },
+                    "matched_random": {
+                        "tp": 18,
+                        "fp": 206798
+                    }
+                },
+                {
+                    "profile": "T2-C2",
+                    "removes_pct": 16,
+                    "profile_removal": {
+                        "tp": 20,
+                        "fp": 335127
+                    },
+                    "matched_random": {
+                        "tp": 19,
+                        "fp": 252645
+                    }
+                }
+            ]
+        },
+        "Velox": {
+            "profiles": [
+                {
+                    "profile": "T2-C3",
+                    "removes_pct": 32,
+                    "profile_removal": {
+                        "tp": 12,
+                        "fp": 22259
+                    },
+                    "matched_random": {
+                        "tp": 11,
+                        "fp": 22129
+                    }
+                },
+                {
+                    "profile": "T3-C8",
+                    "removes_pct": 30,
+                    "profile_removal": {
+                        "tp": 9,
+                        "fp": 22128
+                    },
+                    "matched_random": {
+                        "tp": 9,
+                        "fp": 22033
+                    }
+                },
+                {
+                    "profile": "T2-C2",
+                    "removes_pct": 16,
+                    "profile_removal": {
+                        "tp": 9,
+                        "fp": 22127
+                    },
+                    "matched_random": {
+                        "tp": 9,
+                        "fp": 22133
+                    }
+                }
+            ]
+        },
+        "Orthrus": {
+            "profiles": [
+                {
+                    "profile": "T2-C3",
+                    "removes_pct": 32,
+                    "profile_removal": {
+                        "tp": 0,
+                        "fp": 29
+                    },
+                    "matched_random": {
+                        "tp": 0,
+                        "fp": 8
+                    }
+                },
+                {
+                    "profile": "T3-C8",
+                    "removes_pct": 30,
+                    "profile_removal": {
+                        "tp": 0,
+                        "fp": 2
+                    },
+                    "matched_random": {
+                        "tp": 0,
+                        "fp": 8
+                    }
+                },
+                {
+                    "profile": "T2-C2",
+                    "removes_pct": 16,
+                    "profile_removal": {
+                        "tp": 0,
+                        "fp": 4
+                    },
+                    "matched_random": {
+                        "tp": 0,
+                        "fp": 11
+                    }
+                }
+            ]
+        }
+    },
+    "TRACE_E5": {
+        "Flash": {
+            "profiles": [
+                {
+                    "profile": "T1-C1",
+                    "removes_pct": 68,
+                    "profile_removal": {
+                        "tp": 2,
+                        "fp": 17620
+                    },
+                    "matched_random": {
+                        "tp": 9,
+                        "fp": 59585
+                    }
+                },
+                {
+                    "profile": "T4-C1",
+                    "removes_pct": 11,
+                    "profile_removal": {
+                        "tp": 17,
+                        "fp": 162790
+                    },
+                    "matched_random": {
+                        "tp": 1,
+                        "fp": 71853
+                    }
+                },
+                {
+                    "profile": "T2-C2",
+                    "removes_pct": 5,
+                    "profile_removal": {
+                        "tp": 17,
+                        "fp": 165621
+                    },
+                    "matched_random": {
+                        "tp": 17,
+                        "fp": 160175
+                    }
+                }
+            ]
+        },
+        "Velox": {
+            "profiles": [
+                {
+                    "profile": "T1-C1",
+                    "removes_pct": 68,
+                    "profile_removal": {
+                        "tp": 0,
+                        "fp": 0
+                    },
+                    "matched_random": {
+                        "tp": 0,
+                        "fp": 0
+                    }
+                },
+                {
+                    "profile": "T4-C1",
+                    "removes_pct": 11,
+                    "profile_removal": {
+                        "tp": 0,
+                        "fp": 0
+                    },
+                    "matched_random": {
+                        "tp": 0,
+                        "fp": 2
+                    }
+                },
+                {
+                    "profile": "T2-C2",
+                    "removes_pct": 5,
+                    "profile_removal": {
+                        "tp": 0,
+                        "fp": 2
+                    },
+                    "matched_random": {
+                        "tp": 0,
+                        "fp": 0
+                    }
+                }
+            ]
+        },
+        "Orthrus": {
+            "profiles": [
+                {
+                    "profile": "T1-C1",
+                    "removes_pct": 68,
+                    "profile_removal": {
+                        "tp": 0,
+                        "fp": 2
+                    },
+                    "matched_random": {
+                        "tp": 0,
+                        "fp": 11
+                    }
+                },
+                {
+                    "profile": "T4-C1",
+                    "removes_pct": 11,
+                    "profile_removal": {
+                        "tp": 0,
+                        "fp": 2
+                    },
+                    "matched_random": {
+                        "tp": 0,
+                        "fp": 23
+                    }
+                },
+                {
+                    "profile": "T2-C2",
+                    "removes_pct": 5,
+                    "profile_removal": {
+                        "tp": 0,
+                        "fp": 2
+                    },
+                    "matched_random": {
+                        "tp": 0,
+                        "fp": 2
+                    }
+                }
+            ]
+        }
+    }
+}
